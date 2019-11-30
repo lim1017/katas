@@ -1,4 +1,6 @@
-et prompt = require("prompt-sync")();
+//first commit
+
+var prompt = require("prompt-sync")();
 
 // code below (replace this example)
 let answer = prompt("Guess a number: ");
